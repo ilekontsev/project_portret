@@ -1,6 +1,6 @@
 {
   "name": "portret",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -18,5 +18,9 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.7",
+    "sass": "^1.60.0"
   }
 }

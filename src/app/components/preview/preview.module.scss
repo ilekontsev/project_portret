@@ -27,13 +27,14 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   color: #0b2349;
-  display: table;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -khtml-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  display: flex;
+  justify-content: center;
 }
 
 .singIn {
